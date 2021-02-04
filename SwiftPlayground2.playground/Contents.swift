@@ -45,3 +45,45 @@ else
 }
 
 // PART 5
+// PROBLEM 1
+
+var numOne = 7
+var numTwo = 20
+if numOne > numTwo
+{
+    print("Great job")
+}
+else
+{
+    print("Try again")
+}
+
+
+// PROBLEM 2
+
+var stringOne = "Why did they name him Grogu"
+var stringTwo = "I like Baby Yoda better"
+
+if stringOne == stringTwo
+{
+    print(stringOne + stringTwo)
+}
+else
+{
+    print("I can't wait for season 3 of Mandalorian")
+}
+
+
+// PROBLEM 3
+
+let harryPotter = true
+let lordVoldemort = false
+
+if harryPotter == lordVoldemort
+{
+    print ("Gryffindor")
+}
+else
+{
+    print("Slytherin")
+}
